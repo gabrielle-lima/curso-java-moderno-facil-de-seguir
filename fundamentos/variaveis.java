@@ -1,4 +1,4 @@
-			public class Main {
+			public class variaveis {
 				public static void main(String[] args) {
 					int farinha = 2;
 					System.out.println("A receita requer  " + farinha + " xícaras de farinha");
@@ -21,4 +21,4 @@
 				System.out.println("Inicial do nome: "+ inicialNome);
 		       }
 
-		   }
+		   }	
