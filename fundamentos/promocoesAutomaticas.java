@@ -1,12 +1,12 @@
 	public class promocoesAutomaticas {
-				public static void main(String[] args) {
-                byte a = 10;
-                int b = a + 5;
+			public static void main(String[] args) {
+			    int a = 10 ;
+				double b = 1.5;
+				double c = a * b;
+				// a é promovido para double antes do cálculo
 
 
-
-
-				System.out.println("Valor de a "+ a);
+				System.out.println("Valor de c =  "+ c);
 
 					
 		       }
