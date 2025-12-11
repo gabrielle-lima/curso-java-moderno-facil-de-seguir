@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-//    Carro carro = new Carro();
+//    classesabstratas.Carro carro = new classesabstratas.Carro();
 //    carro.iniciar();
 //    carro.buzinar();
-//    Caminhao caminhao = new Caminhao();
+//    classesabstratas.Caminhao caminhao = new classesabstratas.Caminhao();
 //    caminhao.iniciar();
 //    caminhao.buzinar();
 //
